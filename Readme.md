@@ -6,6 +6,18 @@
 
 Ever wondered if a computer could recognize your handwriting better than your doctor? Well, wonder no more! This project trains a Convolutional Neural Network (CNN) to recognize handwritten digits (0-9) using the famous MNIST dataset. Then it lets you draw digits like a 5-year-old and watch the AI struggle... or succeed magnificently! 🎨
 
+---
+
+## 🎬 Video Walkthrough
+
+> <b>Watch the magic happen:</b>
+>
+> [![Demo Video](https://github.com/DevanshSrajput/Handwritten-Digit-Recognition-MNIST/blob/main/Handwritten-Digit-Recognition-MNIST.png)](https://youtu.be/79WAnDDF3oA)
+>
+> <i>Click the thumbnail above to see a full walkthrough of the MNIST Digit Recognition Project in action!</i>
+
+---
+
 ## 🚀 Features That'll Blow Your Mind (Or At Least Mildly Impress You)
 
 - 🤖 **Smart CNN Model**: Uses TensorFlow/Keras to build a neural network that's smarter than your average calculator
