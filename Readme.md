@@ -18,6 +18,14 @@ Ever wondered if a computer could recognize your handwriting better than your do
 
 ---
 
+## 📸 ScreenShots
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="ScreenShots/Base.png" width="300"/>
+  <img src="ScreenShots/Predicted.png" width="300"/>
+</div>
+
+---
+
 ## 🚀 Features That'll Blow Your Mind (Or At Least Mildly Impress You)
 
 - 🤖 **Smart CNN Model**: Uses TensorFlow/Keras to build a neural network that's smarter than your average calculator
